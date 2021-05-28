@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"module": "esNext",
+		"declaration": false,
+		"sourceMap": true,
+		"target": "es6",
+		"esModuleInterop": true,
+		"moduleResolution": "node",
+		"jsx": "react",
+		"outDir": "./dist",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"resolveJsonModule": true,
+		"preserveConstEnums": true,
+		//		"noEmit": true,
+		"allowSyntheticDefaultImports": true
+	},
+	"exclude": ["node_modules"]
+}
