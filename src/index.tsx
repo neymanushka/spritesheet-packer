@@ -65,7 +65,7 @@ const App = () => {
 		const spritesheet: SpriteSheet = {
 			frames: {},
 			meta: {
-				app: 'spritesheet packer',
+				app: 'https://neymanushka.github.io/spritesheet-packer/',
 				image: 'spritesheet.png',
 				size: { w: textureSize, h: textureSize },
 				scale: 1,
